@@ -1,0 +1,1557 @@
+______Process started______
+START 30
+OK
+INFO max_memory 83886080
+INFO timeout_match 180000
+INFO timeout_turn 60000
+INFO game_type 1
+INFO rule 0
+INFO time_left 179742
+INFO folder C:\ProgramData
+BEGIN
+15,15
+______Process started______
+START 30
+OK
+INFO max_memory 83886080
+INFO timeout_match 600000
+INFO timeout_turn 60000
+INFO game_type 1
+INFO rule 0
+INFO time_left 599750
+INFO folder C:\ProgramData
+TURN 15,15
+15,16
+INFO time_left 179739
+TURN 15,16
+14,16
+INFO time_left 598897
+TURN 14,16
+13,17
+INFO time_left 178803
+TURN 13,17
+13,15
+INFO time_left 598380
+TURN 13,15
+13,18
+INFO time_left 177830
+TURN 13,18
+14,15
+INFO time_left 597278
+TURN 14,15
+12,15
+INFO time_left 177247
+TURN 12,15
+14,17
+INFO time_left 597262
+TURN 14,17
+14,14
+INFO time_left 176639
+TURN 14,14
+12,14
+INFO time_left 597244
+TURN 12,14
+11,13
+INFO time_left 175469
+TURN 11,13
+15,17
+INFO time_left 597228
+TURN 15,17
+16,18
+INFO time_left 173794
+TURN 16,18
+14,18
+INFO time_left 597218
+TURN 14,18
+14,19
+INFO time_left 173385
+TURN 14,19
+16,15
+INFO time_left 597209
+TURN 16,15
+17,15
+INFO time_left 172699
+TURN 17,15
+13,19
+INFO time_left 597199
+TURN 13,19
+12,20
+INFO time_left 172140
+TURN 12,20
+12,17
+INFO time_left 597182
+TURN 12,17
+16,14
+INFO time_left 171058
+TURN 16,14
+15,14
+INFO time_left 595096
+TURN 15,14
+13,16
+INFO time_left 170375
+TURN 13,16
+15,13
+INFO time_left 595079
+TURN 15,13
+14,13
+INFO time_left 169255
+TURN 14,13
+12,18
+INFO time_left 594460
+TURN 12,18
+14,20
+INFO time_left 168577
+TURN 14,20
+15,12
+INFO time_left 593782
+TURN 15,12
+15,11
+INFO time_left 168109
+TURN 15,11
+17,17
+INFO time_left 593773
+TURN 17,17
+16,17
+INFO time_left 167007
+TURN 16,17
+13,20
+INFO time_left 592629
+TURN 13,20
+13,21
+INFO time_left 166942
+TURN 13,21
+12,19
+INFO time_left 591236
+TURN 12,19
+14,21
+INFO time_left 165816
+TURN 14,21
+14,22
+INFO time_left 590376
+TURN 14,22
+15,20
+INFO time_left 165791
+TURN 15,20
+16,21
+INFO time_left 589589
+TURN 16,21
+16,19
+INFO time_left 165765
+TURN 16,19
+13,22
+INFO time_left 588806
+TURN 13,22
+12,22
+INFO time_left 165747
+TURN 12,22
+15,19
+INFO time_left 587844
+TURN 15,19
+17,18
+INFO time_left 165737
+TURN 17,18
+18,17
+INFO time_left 586906
+TURN 18,17
+18,19
+INFO time_left 165727
+TURN 18,19
+19,20
+INFO time_left 586090
+TURN 19,20
+19,18
+INFO time_left 165717
+TURN 19,18
+18,18
+INFO time_left 585398
+TURN 18,18
+12,21
+INFO time_left 165699
+TURN 12,21
+11,21
+INFO time_left 584929
+TURN 11,21
+11,23
+INFO time_left 165681
+TURN 11,23
+10,24
+INFO time_left 584417
+TURN 10,24
+12,24
+INFO time_left 165670
+TURN 12,24
+12,23
+INFO time_left 583663
+TURN 12,23
+20,17
+INFO time_left 165659
+TURN 20,17
+21,16
+INFO time_left 583128
+TURN 21,16
+10,22
+INFO time_left 165640
+TURN 10,22
+9,21
+INFO time_left 582609
+TURN 9,21
+16,20
+INFO time_left 165621
+TURN 16,20
+16,16
+INFO time_left 582188
+TURN 16,16
+19,19
+INFO time_left 165603
+TURN 19,19
+20,19
+INFO time_left 582177
+TURN 20,19
+17,20
+INFO time_left 162908
+TURN 17,20
+18,20
+INFO time_left 581327
+TURN 18,20
+18,21
+INFO time_left 162897
+TURN 18,21
+19,22
+INFO time_left 580249
+TURN 19,22
+10,13
+INFO time_left 162877
+TURN 10,13
+9,13
+INFO time_left 578917
+TURN 9,13
+11,12
+INFO time_left 158825
+TURN 11,12
+11,14
+INFO time_left 577498
+TURN 11,14
+10,14
+INFO time_left 158796
+TURN 10,14
+9,15
+INFO time_left 576250
+TURN 9,15
+10,11
+INFO time_left 157066
+TURN 10,11
+10,12
+INFO time_left 575221
+TURN 10,12
+9,14
+INFO time_left 157047
+TURN 9,14
+8,15
+INFO time_left 574039
+TURN 8,15
+7,15
+INFO time_left 157027
+TURN 7,15
+8,14
+INFO time_left 573872
+TURN 8,14
+11,17
+INFO time_left 156217
+TURN 11,17
+7,13
+INFO time_left 573840
+TURN 7,13
+6,12
+INFO time_left 155285
+TURN 6,12
+8,13
+INFO time_left 573820
+TURN 8,13
+8,12
+INFO time_left 154217
+TURN 8,12
+6,13
+INFO time_left 573798
+TURN 6,13
+5,13
+INFO time_left 153156
+TURN 5,13
+9,16
+INFO time_left 573787
+TURN 9,16
+7,14
+INFO time_left 152323
+TURN 7,14
+11,18
+INFO time_left 573766
+TURN 11,18
+10,17
+INFO time_left 152262
+TURN 10,17
+8,17
+INFO time_left 573755
+TURN 8,17
+8,16
+INFO time_left 151947
+TURN 8,16
+10,15
+INFO time_left 573743
+TURN 10,15
+7,18
+INFO time_left 151904
+TURN 7,18
+12,13
+______Process started______
+START 20
+OK
+INFO max_memory 83886080
+INFO timeout_match 600000
+INFO timeout_turn 60000
+INFO game_type 1
+INFO rule 0
+INFO time_left 599761
+INFO folder C:\ProgramData
+BEGIN
+10,10
+______Process started______
+START 20
+OK
+INFO max_memory 83886080
+INFO timeout_match 180000
+INFO timeout_turn 5000
+INFO game_type 1
+INFO rule 0
+INFO time_left 179753
+INFO folder C:\ProgramData
+TURN 10,10
+10,11
+INFO time_left 599757
+TURN 10,11
+9,11
+INFO time_left 179179
+TURN 9,11
+8,12
+INFO time_left 599104
+TURN 8,12
+8,10
+INFO time_left 178812
+TURN 8,10
+8,13
+INFO time_left 598476
+TURN 8,13
+9,10
+INFO time_left 178027
+TURN 9,10
+7,10
+INFO time_left 598088
+TURN 7,10
+9,12
+INFO time_left 177986
+TURN 9,12
+9,9
+INFO time_left 597680
+TURN 9,9
+7,9
+INFO time_left 177945
+TURN 7,9
+6,8
+INFO time_left 596899
+TURN 6,8
+10,12
+INFO time_left 177905
+TURN 10,12
+11,13
+INFO time_left 595770
+TURN 11,13
+9,13
+INFO time_left 177870
+TURN 9,13
+9,14
+INFO time_left 595488
+TURN 9,14
+11,10
+INFO time_left 177835
+TURN 11,10
+12,10
+INFO time_left 595021
+TURN 12,10
+8,14
+INFO time_left 177798
+TURN 8,14
+7,15
+INFO time_left 594630
+TURN 7,15
+7,12
+INFO time_left 177756
+TURN 7,12
+11,9
+INFO time_left 593876
+TURN 11,9
+10,9
+INFO time_left 176299
+TURN 10,9
+8,11
+INFO time_left 593391
+TURN 8,11
+10,8
+INFO time_left 176258
+TURN 10,8
+9,8
+INFO time_left 592617
+TURN 9,8
+7,13
+INFO time_left 175810
+TURN 7,13
+9,15
+INFO time_left 592141
+TURN 9,15
+10,7
+INFO time_left 175302
+TURN 10,7
+10,6
+INFO time_left 591799
+TURN 10,6
+12,12
+INFO time_left 175265
+TURN 12,12
+11,12
+INFO time_left 590971
+TURN 11,12
+8,15
+INFO time_left 174206
+TURN 8,15
+8,16
+INFO time_left 590900
+TURN 8,16
+7,14
+INFO time_left 173261
+TURN 7,14
+9,16
+INFO time_left 590151
+TURN 9,16
+9,17
+INFO time_left 172624
+TURN 9,17
+10,15
+INFO time_left 590102
+TURN 10,15
+11,16
+INFO time_left 172062
+TURN 11,16
+11,14
+INFO time_left 590055
+TURN 11,14
+8,17
+INFO time_left 171533
+TURN 8,17
+7,17
+INFO time_left 590014
+TURN 7,17
+10,14
+INFO time_left 170873
+TURN 10,14
+12,13
+INFO time_left 589978
+TURN 12,13
+13,12
+INFO time_left 170234
+TURN 13,12
+6,18
+INFO time_left 589942
+TURN 6,18
+5,19
+INFO time_left 169680
+TURN 5,19
+6,16
+INFO time_left 589906
+TURN 6,16
+7,16
+INFO time_left 169161
+TURN 7,16
+8,18
+INFO time_left 589862
+TURN 8,18
+5,15
+INFO time_left 168626
+TURN 5,15
+9,18
+INFO time_left 589815
+TURN 9,18
+7,18
+INFO time_left 168139
+TURN 7,18
+13,14
+INFO time_left 589774
+TURN 13,14
+14,15
+INFO time_left 167605
+TURN 14,15
+14,13
+INFO time_left 589738
+TURN 14,13
+13,13
+INFO time_left 167118
+TURN 13,13
+15,12
+INFO time_left 589696
+TURN 15,12
+16,11
+INFO time_left 166595
+TURN 16,11
+11,15
+INFO time_left 589653
+TURN 11,15
+11,11
+INFO time_left 166086
+TURN 11,11
+14,14
+INFO time_left 589610
+TURN 14,14
+15,14
+INFO time_left 166050
+TURN 15,14
+12,15
+INFO time_left 588642
+TURN 12,15
+13,15
+INFO time_left 165401
+TURN 13,15
+13,16
+INFO time_left 588605
+TURN 13,16
+14,17
+INFO time_left 164757
+TURN 14,17
+5,8
+INFO time_left 588564
+TURN 5,8
+7,8
+INFO time_left 163843
+TURN 7,8
+6,9
+INFO time_left 586837
+TURN 6,9
+4,7
+INFO time_left 163411
+TURN 4,7
+6,7
+INFO time_left 586801
+TURN 6,7
+6,6
+INFO time_left 162881
+TURN 6,6
+7,6
+INFO time_left 586758
+TURN 7,6
+4,9
+INFO time_left 162105
+TURN 4,9
+6,11
+INFO time_left 586716
+TURN 6,11
+6,10
+INFO time_left 161212
+TURN 6,10
+5,12
+INFO time_left 586679
+TURN 5,12
+8,9
+INFO time_left 160750
+TURN 8,9
+5,11
+INFO time_left 586641
+TURN 5,11
+5,10
+INFO time_left 160321
+TURN 5,10
+4,11
+INFO time_left 586490
+TURN 4,11
+7,11
+INFO time_left 159860
+TURN 7,11
+4,13
+INFO time_left 586453
+TURN 4,13
+3,14
+INFO time_left 159340
+TURN 3,14
+6,17
+INFO time_left 586416
+TURN 6,17
+6,15
+INFO time_left 158886
+TURN 6,15
+3,11
+INFO time_left 586373
+TURN 3,11
+2,11
+INFO time_left 158261
+TURN 2,11
+4,10
+INFO time_left 586336
+TURN 4,10
+5,9
+INFO time_left 157710
+TURN 5,9
+3,9
+INFO time_left 586294
+TURN 3,9
+2,8
+INFO time_left 157106
+TURN 2,8
+3,10
+INFO time_left 586252
+TURN 3,10
+2,9
+INFO time_left 156969
+TURN 2,9
+3,12
+INFO time_left 586209
+TURN 3,12
+3,8
+INFO time_left 156922
+TURN 3,8
+3,13
+END
+END
+______Process started______
+START 20
+OK
+INFO max_memory 83886080
+INFO timeout_match 600000
+INFO timeout_turn 60000
+INFO game_type 1
+INFO rule 0
+INFO time_left 599764
+INFO folder C:\ProgramData
+BEGIN
+10,10
+______Process started______
+START 20
+OK
+INFO max_memory 83886080
+INFO timeout_match 180000
+INFO timeout_turn 5000
+INFO game_type 1
+INFO rule 0
+INFO time_left 179766
+INFO folder C:\ProgramData
+TURN 10,10
+10,11
+INFO time_left 599761
+TURN 10,11
+9,11
+INFO time_left 179205
+TURN 9,11
+8,12
+INFO time_left 599098
+TURN 8,12
+8,10
+INFO time_left 178840
+TURN 8,10
+8,13
+INFO time_left 598461
+TURN 8,13
+9,10
+INFO time_left 178061
+TURN 9,10
+7,10
+INFO time_left 598069
+TURN 7,10
+9,12
+INFO time_left 178021
+TURN 9,12
+9,9
+INFO time_left 597652
+TURN 9,9
+7,9
+INFO time_left 177981
+TURN 7,9
+6,8
+INFO time_left 596863
+TURN 6,8
+10,12
+INFO time_left 177941
+TURN 10,12
+11,13
+INFO time_left 595718
+TURN 11,13
+9,13
+INFO time_left 177905
+TURN 9,13
+9,14
+INFO time_left 595429
+TURN 9,14
+11,10
+INFO time_left 177869
+TURN 11,10
+12,10
+INFO time_left 594951
+TURN 12,10
+8,14
+INFO time_left 177834
+TURN 8,14
+7,15
+INFO time_left 594551
+TURN 7,15
+7,12
+INFO time_left 177793
+TURN 7,12
+11,9
+INFO time_left 593779
+TURN 11,9
+10,9
+INFO time_left 176346
+TURN 10,9
+8,11
+INFO time_left 593283
+TURN 8,11
+10,8
+INFO time_left 176304
+TURN 10,8
+9,8
+INFO time_left 592501
+TURN 9,8
+7,13
+INFO time_left 175875
+TURN 7,13
+9,15
+INFO time_left 592022
+TURN 9,15
+10,7
+INFO time_left 175405
+TURN 10,7
+10,6
+INFO time_left 591684
+TURN 10,6
+12,12
+INFO time_left 175368
+TURN 12,12
+11,12
+INFO time_left 590902
+TURN 11,12
+8,15
+INFO time_left 174607
+TURN 8,15
+8,16
+INFO time_left 590832
+TURN 8,16
+7,14
+INFO time_left 173730
+TURN 7,14
+9,16
+INFO time_left 590091
+TURN 9,16
+9,17
+INFO time_left 173175
+TURN 9,17
+10,15
+INFO time_left 590045
+TURN 10,15
+11,16
+INFO time_left 172652
+TURN 11,16
+11,14
+INFO time_left 589999
+TURN 11,14
+8,17
+INFO time_left 172127
+TURN 8,17
+7,17
+INFO time_left 589958
+TURN 7,17
+10,14
+INFO time_left 171463
+TURN 10,14
+12,13
+INFO time_left 589919
+TURN 12,13
+13,12
+INFO time_left 170819
+TURN 13,12
+6,18
+INFO time_left 589883
+TURN 6,18
+5,19
+INFO time_left 170264
+TURN 5,19
+6,16
+INFO time_left 589843
+TURN 6,16
+7,16
+INFO time_left 169746
+TURN 7,16
+8,18
+INFO time_left 589800
+TURN 8,18
+5,15
+INFO time_left 169273
+TURN 5,15
+9,18
+INFO time_left 589758
+TURN 9,18
+7,18
+INFO time_left 168792
+TURN 7,18
+13,14
+INFO time_left 589717
+TURN 13,14
+14,15
+INFO time_left 168257
+TURN 14,15
+14,13
+INFO time_left 589681
+TURN 14,13
+13,13
+INFO time_left 167781
+TURN 13,13
+15,12
+INFO time_left 589638
+TURN 15,12
+16,11
+INFO time_left 167258
+TURN 16,11
+11,15
+INFO time_left 589590
+TURN 11,15
+11,11
+INFO time_left 166753
+TURN 11,11
+14,14
+INFO time_left 589548
+TURN 14,14
+15,14
+INFO time_left 166716
+TURN 15,14
+12,15
+INFO time_left 588579
+TURN 12,15
+13,15
+INFO time_left 166081
+TURN 13,15
+13,16
+INFO time_left 588541
+TURN 13,16
+14,17
+INFO time_left 165451
+TURN 14,17
+5,8
+INFO time_left 588497
+TURN 5,8
+7,8
+INFO time_left 164537
+TURN 7,8
+6,9
+INFO time_left 586762
+TURN 6,9
+4,7
+INFO time_left 164114
+TURN 4,7
+6,7
+INFO time_left 586726
+TURN 6,7
+6,6
+INFO time_left 163588
+TURN 6,6
+7,6
+INFO time_left 586683
+TURN 7,6
+4,9
+INFO time_left 162823
+TURN 4,9
+6,11
+INFO time_left 586640
+TURN 6,11
+6,10
+INFO time_left 161943
+TURN 6,10
+5,12
+INFO time_left 586604
+TURN 5,12
+8,9
+INFO time_left 161486
+TURN 8,9
+5,11
+INFO time_left 586567
+TURN 5,11
+5,10
+INFO time_left 161064
+TURN 5,10
+4,11
+INFO time_left 586416
+TURN 4,11
+7,11
+INFO time_left 160606
+TURN 7,11
+4,13
+INFO time_left 586379
+TURN 4,13
+3,14
+INFO time_left 160137
+TURN 3,14
+6,17
+INFO time_left 586342
+TURN 6,17
+6,15
+INFO time_left 159694
+TURN 6,15
+3,11
+INFO time_left 586299
+TURN 3,11
+2,11
+INFO time_left 159085
+TURN 2,11
+4,10
+INFO time_left 586262
+TURN 4,10
+5,9
+INFO time_left 158541
+TURN 5,9
+3,9
+INFO time_left 586219
+TURN 3,9
+2,8
+INFO time_left 157960
+TURN 2,8
+3,10
+INFO time_left 586176
+TURN 3,10
+2,9
+INFO time_left 157825
+TURN 2,9
+3,12
+INFO time_left 586133
+TURN 3,12
+3,8
+INFO time_left 157778
+TURN 3,8
+3,13
+END
+END
+______Process started______
+START 20
+OK
+INFO max_memory 83886080
+INFO timeout_match 600000
+INFO timeout_turn 60000
+INFO game_type 1
+INFO rule 0
+INFO time_left 599765
+INFO folder C:\ProgramData
+BEGIN
+10,10
+______Process started______
+START 20
+OK
+INFO max_memory 83886080
+INFO timeout_match 180000
+INFO timeout_turn 5000
+INFO game_type 1
+INFO rule 0
+INFO time_left 179760
+INFO folder C:\ProgramData
+TURN 10,10
+10,11
+INFO time_left 599762
+TURN 10,11
+9,11
+INFO time_left 179192
+TURN 9,11
+8,12
+INFO time_left 599098
+TURN 8,12
+8,10
+INFO time_left 178813
+TURN 8,10
+8,13
+INFO time_left 598450
+TURN 8,13
+9,10
+INFO time_left 178019
+TURN 9,10
+7,10
+INFO time_left 598033
+TURN 7,10
+9,12
+INFO time_left 177977
+TURN 9,12
+9,9
+INFO time_left 597591
+TURN 9,9
+7,9
+INFO time_left 177937
+TURN 7,9
+6,8
+INFO time_left 596779
+TURN 6,8
+10,12
+INFO time_left 177895
+TURN 10,12
+11,13
+INFO time_left 595597
+TURN 11,13
+9,13
+INFO time_left 177858
+TURN 9,13
+9,14
+INFO time_left 595310
+TURN 9,14
+11,10
+INFO time_left 177822
+TURN 11,10
+12,10
+INFO time_left 594827
+TURN 12,10
+8,14
+INFO time_left 177786
+TURN 8,14
+7,15
+INFO time_left 594426
+TURN 7,15
+7,12
+INFO time_left 177744
+TURN 7,12
+11,9
+INFO time_left 593650
+TURN 11,9
+10,9
+INFO time_left 176288
+TURN 10,9
+8,11
+INFO time_left 593149
+TURN 8,11
+10,8
+INFO time_left 176246
+TURN 10,8
+9,8
+INFO time_left 592351
+TURN 9,8
+7,13
+INFO time_left 175809
+TURN 7,13
+9,15
+INFO time_left 591870
+TURN 9,15
+10,7
+INFO time_left 175337
+TURN 10,7
+10,6
+INFO time_left 591517
+TURN 10,6
+12,12
+INFO time_left 175301
+TURN 12,12
+11,12
+INFO time_left 590730
+TURN 11,12
+8,15
+INFO time_left 174532
+TURN 8,15
+8,16
+INFO time_left 590660
+TURN 8,16
+7,14
+INFO time_left 173646
+TURN 7,14
+9,16
+INFO time_left 589908
+TURN 9,16
+9,17
+INFO time_left 173086
+TURN 9,17
+10,15
+INFO time_left 589861
+TURN 10,15
+11,16
+INFO time_left 172554
+TURN 11,16
+11,14
+INFO time_left 589815
+TURN 11,14
+8,17
+INFO time_left 172028
+TURN 8,17
+7,17
+INFO time_left 589773
+TURN 7,17
+10,14
+INFO time_left 171364
+TURN 10,14
+12,13
+INFO time_left 589736
+TURN 12,13
+13,12
+INFO time_left 170725
+TURN 13,12
+6,18
+INFO time_left 589699
+TURN 6,18
+5,19
+INFO time_left 170171
+TURN 5,19
+6,16
+INFO time_left 589663
+TURN 6,16
+7,16
+INFO time_left 169652
+TURN 7,16
+8,18
+INFO time_left 589619
+TURN 8,18
+5,15
+INFO time_left 169183
+TURN 5,15
+9,18
+INFO time_left 589577
+TURN 9,18
+7,18
+INFO time_left 168672
+TURN 7,18
+13,14
+INFO time_left 589535
+TURN 13,14
+14,15
+INFO time_left 168137
+TURN 14,15
+14,13
+INFO time_left 589498
+TURN 14,13
+13,13
+INFO time_left 167640
+TURN 13,13
+15,12
+INFO time_left 589455
+TURN 15,12
+16,11
+INFO time_left 167103
+TURN 16,11
+11,15
+INFO time_left 589413
+TURN 11,15
+11,11
+INFO time_left 166584
+TURN 11,11
+14,14
+INFO time_left 589370
+TURN 14,14
+15,14
+INFO time_left 166546
+TURN 15,14
+12,15
+INFO time_left 588360
+TURN 12,15
+13,15
+INFO time_left 165901
+TURN 13,15
+13,16
+INFO time_left 588323
+TURN 13,16
+14,17
+INFO time_left 165228
+TURN 14,17
+5,8
+INFO time_left 588281
+TURN 5,8
+7,8
+INFO time_left 164320
+TURN 7,8
+6,9
+INFO time_left 586529
+TURN 6,9
+4,7
+INFO time_left 163894
+TURN 4,7
+6,7
+INFO time_left 586493
+TURN 6,7
+6,6
+INFO time_left 163370
+TURN 6,6
+7,6
+INFO time_left 586449
+TURN 7,6
+4,9
+INFO time_left 162599
+TURN 4,9
+6,11
+INFO time_left 586406
+TURN 6,11
+6,10
+INFO time_left 161700
+TURN 6,10
+5,12
+INFO time_left 586367
+TURN 5,12
+8,9
+INFO time_left 161230
+TURN 8,9
+5,11
+INFO time_left 586329
+TURN 5,11
+5,10
+INFO time_left 160804
+TURN 5,10
+4,11
+INFO time_left 586173
+TURN 4,11
+7,11
+INFO time_left 160289
+TURN 7,11
+4,13
+INFO time_left 586134
+TURN 4,13
+3,14
+INFO time_left 159818
+TURN 3,14
+6,17
+INFO time_left 586095
+TURN 6,17
+6,15
+INFO time_left 159370
+TURN 6,15
+3,11
+INFO time_left 586050
+TURN 3,11
+2,11
+INFO time_left 158722
+TURN 2,11
+4,10
+INFO time_left 586013
+TURN 4,10
+5,9
+INFO time_left 158172
+TURN 5,9
+3,9
+INFO time_left 585970
+TURN 3,9
+2,8
+INFO time_left 157577
+TURN 2,8
+3,10
+INFO time_left 585926
+TURN 3,10
+2,9
+INFO time_left 157442
+TURN 2,9
+3,12
+INFO time_left 585883
+TURN 3,12
+3,8
+INFO time_left 157395
+TURN 3,8
+3,13
+END
+END
+______Process started______
+START 20
+OK
+INFO max_memory 83886080
+INFO timeout_match 600000
+INFO timeout_turn 60000
+INFO game_type 1
+INFO rule 0
+INFO time_left 599403
+INFO folder C:\ProgramData
+BEGIN
+10,10
+______Process started______
+START 20
+OK
+INFO max_memory 83886080
+INFO timeout_match 180000
+INFO timeout_turn 5000
+INFO game_type 1
+INFO rule 0
+INFO time_left 179748
+INFO folder C:\ProgramData
+TURN 10,10
+10,11
+INFO time_left 599398
+TURN 10,11
+9,11
+INFO time_left 179203
+TURN 9,11
+8,12
+INFO time_left 598741
+TURN 8,12
+8,10
+INFO time_left 178826
+TURN 8,10
+8,13
+INFO time_left 598105
+TURN 8,13
+9,10
+INFO time_left 178048
+TURN 9,10
+7,10
+INFO time_left 597709
+TURN 7,10
+9,12
+INFO time_left 177993
+TURN 9,12
+9,9
+INFO time_left 597277
+TURN 9,9
+7,9
+INFO time_left 177938
+TURN 7,9
+6,8
+INFO time_left 596501
+TURN 6,8
+10,12
+INFO time_left 177883
+TURN 10,12
+11,13
+INFO time_left 595382
+TURN 11,13
+9,13
+INFO time_left 177833
+TURN 9,13
+9,14
+INFO time_left 595089
+TURN 9,14
+11,10
+INFO time_left 177783
+TURN 11,10
+12,10
+INFO time_left 594615
+TURN 12,10
+8,14
+INFO time_left 177733
+TURN 8,14
+7,15
+INFO time_left 594200
+TURN 7,15
+7,12
+INFO time_left 177678
+TURN 7,12
+11,9
+INFO time_left 593447
+TURN 11,9
+10,9
+INFO time_left 176262
+TURN 10,9
+8,11
+INFO time_left 592962
+TURN 8,11
+10,8
+INFO time_left 176207
+TURN 10,8
+9,8
+INFO time_left 592193
+TURN 9,8
+7,13
+INFO time_left 175776
+TURN 7,13
+9,15
+INFO time_left 591723
+TURN 9,15
+10,7
+INFO time_left 175302
+TURN 10,7
+10,6
+INFO time_left 591383
+TURN 10,6
+12,12
+INFO time_left 175251
+TURN 12,12
+11,12
+INFO time_left 590618
+TURN 11,12
+8,15
+INFO time_left 174493
+TURN 8,15
+8,16
+INFO time_left 590534
+TURN 8,16
+7,14
+INFO time_left 173624
+TURN 7,14
+9,16
+INFO time_left 589801
+TURN 9,16
+9,17
+INFO time_left 173068
+TURN 9,17
+10,15
+INFO time_left 589739
+TURN 10,15
+11,16
+INFO time_left 172520
+TURN 11,16
+11,14
+INFO time_left 589679
+TURN 11,14
+8,17
+INFO time_left 171997
+TURN 8,17
+7,17
+INFO time_left 589624
+TURN 7,17
+10,14
+INFO time_left 171345
+TURN 10,14
+12,13
+INFO time_left 589575
+TURN 12,13
+13,12
+INFO time_left 170721
+TURN 13,12
+6,18
+INFO time_left 589525
+TURN 6,18
+5,19
+INFO time_left 170175
+TURN 5,19
+6,16
+INFO time_left 589475
+TURN 6,16
+7,16
+INFO time_left 169663
+TURN 7,16
+8,18
+INFO time_left 589421
+TURN 8,18
+5,15
+INFO time_left 169197
+TURN 5,15
+9,18
+INFO time_left 589367
+TURN 9,18
+7,18
+INFO time_left 168708
+TURN 7,18
+13,14
+INFO time_left 589311
+TURN 13,14
+14,15
+INFO time_left 168191
+TURN 14,15
+14,13
+INFO time_left 589260
+TURN 14,13
+13,13
+INFO time_left 167715
+TURN 13,13
+15,12
+INFO time_left 589205
+TURN 15,12
+16,11
+INFO time_left 167200
+TURN 16,11
+11,15
+INFO time_left 589150
+TURN 11,15
+11,11
+INFO time_left 166699
+TURN 11,11
+14,14
+INFO time_left 589094
+TURN 14,14
+15,14
+INFO time_left 166648
+TURN 15,14
+12,15
+INFO time_left 588145
+TURN 12,15
+13,15
+INFO time_left 166014
+TURN 13,15
+13,16
+INFO time_left 588095
+TURN 13,16
+14,17
+INFO time_left 165383
+TURN 14,17
+5,8
+INFO time_left 588039
+TURN 5,8
+7,8
+INFO time_left 164476
+TURN 7,8
+6,9
+INFO time_left 586360
+TURN 6,9
+4,7
+INFO time_left 164052
+TURN 4,7
+6,7
+INFO time_left 586308
+TURN 6,7
+6,6
+INFO time_left 163528
+TURN 6,6
+7,6
+INFO time_left 586250
+TURN 7,6
+4,9
+INFO time_left 162774
+TURN 4,9
+6,11
+INFO time_left 586193
+TURN 6,11
+6,10
+INFO time_left 161909
+TURN 6,10
+5,12
+INFO time_left 586142
+TURN 5,12
+8,9
+INFO time_left 161451
+TURN 8,9
+5,11
+INFO time_left 586090
+TURN 5,11
+5,10
+INFO time_left 161029
+TURN 5,10
+4,11
+INFO time_left 585930
+TURN 4,11
+7,11
+INFO time_left 160572
+TURN 7,11
+4,13
+INFO time_left 585879
+TURN 4,13
+3,14
+INFO time_left 160103
+TURN 3,14
+6,17
+INFO time_left 585828
+TURN 6,17
+6,15
+INFO time_left 159664
+TURN 6,15
+3,11
+INFO time_left 585771
+TURN 3,11
+2,11
+INFO time_left 159058
+TURN 2,11
+4,10
+INFO time_left 585719
+TURN 4,10
+5,9
+INFO time_left 158519
+TURN 5,9
+3,9
+INFO time_left 585661
+TURN 3,9
+2,8
+INFO time_left 157945
+TURN 2,8
+3,10
+INFO time_left 585604
+TURN 3,10
+2,9
+INFO time_left 157802
+TURN 2,9
+3,12
+INFO time_left 585547
+TURN 3,12
+3,8
+INFO time_left 157741
+TURN 3,8
+3,13
